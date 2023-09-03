@@ -1,11 +1,11 @@
 {
-  "name": "my-package",
+  "name": "my-package2",
   "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Qiuhang817385 <826266129@qq.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/my-package.js",
+  "main": "lib/my-package2.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -17,6 +17,6 @@
     "registry": "http://registry.npmmirror.com/"
   },
   "scripts": {
-    "test": "node ./__tests__/my-package.test.js"
+    "test": "node ./__tests__/my-package2.test.js"
   }
 }
